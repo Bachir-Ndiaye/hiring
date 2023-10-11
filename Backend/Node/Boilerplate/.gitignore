@@ -1,0 +1,7 @@
+node_modules
+src/App/Domain/*.js
+src/App/Command/*.js
+rc/App/Infra/*.js
+
+
+
